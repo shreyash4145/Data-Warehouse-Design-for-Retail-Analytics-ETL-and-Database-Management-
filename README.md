@@ -35,5 +35,3 @@ This project is a data warehouse solution for retail analytics, designed to supp
 4. Use the SQL queries in the `sql/` directory for analytics.
 
 5. Open the Power BI dashboards in the `reports/` directory.
-
-## License
